@@ -29,6 +29,6 @@ public class KeyboardInput
         {
             System.out.println(string.nextToken());
         }
-
+        scan.close();
     }
 }
